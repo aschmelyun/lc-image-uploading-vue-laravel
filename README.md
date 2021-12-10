@@ -3,7 +3,7 @@
 This is the source code behind the Laracasts Series: Image Uploading with Vue and Laravel, and features all of the files and code available in those videos. Each chapter of the series is broken down into individual commits which you can find below:
 
 - [Chapter 1](https://github.com/aschmelyun/lc-image-uploading-vue-laravel/commit/30ead5ed9b85db5ef76fc3aa0084936042c616dd)
-- [Chapter 2](https://github.com/laracasts/lc-image-uploading-vue-laravel/)
+- [Chapter 2](https://github.com/aschmelyun/lc-image-uploading-vue-laravel/commit/8a960b44ade478aaac0ad4127b4f41b3c84f3b32)
 - [Chapter 3](https://github.com/laracasts/lc-image-uploading-vue-laravel/)
 - [Chapter 4](https://github.com/laracasts/lc-image-uploading-vue-laravel/)
 - [Chapter 5](https://github.com/laracasts/lc-image-uploading-vue-laravel/)
