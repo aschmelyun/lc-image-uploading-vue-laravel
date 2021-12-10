@@ -27,7 +27,7 @@ class ImageController extends Controller
         }
 
         $request->validate([
-            'image' => 'required|file|image'
+            'image' => 'required|file|image|mimes:jpg,jpeg,png'
         ]);
 
         // save the file in storage
