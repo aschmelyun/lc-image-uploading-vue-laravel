@@ -41,7 +41,7 @@ class ImageController extends Controller
 
         // create image model
         $image = Image::create([
-            'name' => $uploadedFile->hasName(),
+            'name' => $uploadedFile->hashName(),
             'extension' => $uploadedFile->extension(),
             'size' => $uploadedFile->getSize()
         ]);
